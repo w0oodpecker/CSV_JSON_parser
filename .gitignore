@@ -1,0 +1,5 @@
+.git/
+.idea/
+CSV_JSON_parser.iml
+data.jason
+target/
